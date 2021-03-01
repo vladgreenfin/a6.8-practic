@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: gold;
+    opacity: 0.5;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.progress {
+    height: 35px;
+    width: 100%;
+    margin: auto;
+}
+.buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: red;
+}
